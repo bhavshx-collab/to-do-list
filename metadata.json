@@ -1,0 +1,6 @@
+{
+  "name": "Cadence — Minimalist Task Planner",
+  "description": "A clean, responsive To-Do List and personal task planner with full CRUD management, priority and category filtering, and persistent local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
